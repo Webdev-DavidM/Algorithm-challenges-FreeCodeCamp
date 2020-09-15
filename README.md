@@ -1,6 +1,6 @@
 # Algorithm-challenges-FreeCodeCamp
 
-This project is a JS file which contains all the basic and intermediate algorithm challenges from freecodecamp which I completed. I completed about 90% without requiring assistance.  Thes really helped me to solidify my knoweldge of the following
+This project is a JS file which contains all the basic and intermediate algorithm challenges from freecodecamp which I completed. I completed about 90% without requiring assistance.  These really helped me to solidify my knoweldge of the following
 areas
 
 1) Using regular expressions
